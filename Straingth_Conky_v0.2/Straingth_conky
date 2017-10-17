@@ -1,0 +1,61 @@
+# By K a i z , See me on Eye Candy Linux_  on Google +
+background yes
+use_xft yes
+xftfont Pecita:size=9
+xftalpha 0.8
+update_interval 1
+total_run_times 0
+own_window yes
+own_window_type conky
+own_window_transparent yes
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+double_buffer yes
+draw_shades yes
+draw_outline no
+draw_borders yes
+draw_graph_borders no
+stippled_borders 0
+border_margin 0
+border_width 0
+default_color 000000
+#default_shade_color grey
+default_outline_color 000000
+minimum_size 260 40
+maximum_width 500
+gap_x 100
+gap_y 30
+alignment top_right
+no_buffers yes
+uppercase no
+cpu_avg_samples 2
+net_avg_samples 2
+short_units yes
+text_buffer_size 2048
+use_spacer none
+override_utf8_locale yes
+lua_load rings-v1.2.1.lua
+lua_draw_hook_pre ring_stats
+
+
+# Text settings #
+use_xft yes
+xftalpha 0
+xftfont Pecita:bold:size=10
+override_utf8_locale yes
+lua_load time.lua
+
+# Color scheme #
+default_color black
+color1 2DF246
+color2 864ACA
+color3 white
+
+own_window_argb_value 0
+own_window_argb_visual yes
+own_window_colour 000000
+TEXT
+${offset 100}${color1}${font Dirty Princess:size=65}${time %l:%M}${font DJB It's Full of Dots:size=20}${color2}${time %P}
+${offset 60}${color3}${font scribble:size=35}${voffset 10}${time %B %d, %Y}
+
+
+
