@@ -13,6 +13,8 @@ The Installation Quite Easy Just Follow Command On Your Linux Box
        $ ./install.sh
 ## Wallpaper
   Wallpaper Is [here](https://github.com/KaizIqbal/Straingth_conky_v0.2/tree/master/Wallpaper).Or You Found In Wallpaper Directory
+  
+# Screenshot
 ## Screenshot 1
 
 ![alt text](https://github.com/KaizIqbal/Straingth_conky_v0.2/blob/master/Demo/1.png)
