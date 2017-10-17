@@ -12,7 +12,7 @@ The Installation Quite Easy Just Follow Command On Your Linux Box
        $ sudo chmod +x install.sh
        $ ./install.sh
 ## Wallpaper
-  [GitHub](https://github.com/KaizIqbal/Straingth_conky_v0.2/tree/master/Wallpaper)
+  [Wallpaper](https://github.com/KaizIqbal/Straingth_conky_v0.2/tree/master/Wallpaper)
 ## Screenshot 1
 
 ![alt text](https://github.com/KaizIqbal/Straingth_conky_v0.2/blob/master/Demo/1.png)
