@@ -26,5 +26,9 @@ This Conky Is Right Choice For Lowpoly Dark Wallpaper You See Below.
 
 The Installation Quite Easy Just Follow Command On Your Linux Box
 
-###### Using install.sh
+
+       $ git clone https://github.com/KaizIqbal/Straingth_conky_v0.2.git
+       $ cd Straingth_conky_v0.2/
+       $ sudo chmod +x install.sh
+       $ ./install.sh
 
