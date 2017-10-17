@@ -1,0 +1,1 @@
+# Straingth_conky_v0.2
