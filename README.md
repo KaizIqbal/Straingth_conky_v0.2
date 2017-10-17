@@ -3,6 +3,16 @@
 This Conky Is New Version Of Old One,I make it More Colorful.
 This Conky Is Right Choice For Lowpoly Dark Wallpaper You See Below.
 
+# Installation
+
+The Installation Quite Easy Just Follow Command On Your Linux Box
+
+       $ git clone https://github.com/KaizIqbal/Straingth_conky_v0.2.git
+       $ cd Straingth_conky_v0.2/
+       $ sudo chmod +x install.sh
+       $ ./install.sh
+## Wallpaper
+  [GitHub](https://github.com/KaizIqbal/Straingth_conky_v0.2/tree/master/Wallpaper)
 ## Screenshot 1
 
 ![alt text](https://github.com/KaizIqbal/Straingth_conky_v0.2/blob/master/Demo/1.png)
@@ -23,13 +33,4 @@ This Conky Is Right Choice For Lowpoly Dark Wallpaper You See Below.
 
 ![alt text](https://github.com/KaizIqbal/Straingth_conky_v0.2/blob/master/Demo/5.png)
 
-# Installation
-
-The Installation Quite Easy Just Follow Command On Your Linux Box
-
-
-       $ git clone https://github.com/KaizIqbal/Straingth_conky_v0.2.git
-       $ cd Straingth_conky_v0.2/
-       $ sudo chmod +x install.sh
-       $ ./install.sh
 
